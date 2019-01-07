@@ -45,7 +45,6 @@ int main(int argc, char *argv[ ])
     al_destroy_bitmap(bitmap);
 
     printf("HELLO WORLD");
-    system("PAUSE");
 
     return 0;
 }
