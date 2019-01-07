@@ -47,6 +47,10 @@ int main(int argc, char *argv[ ])
     printf("HELLO WORLD");
     int i;
     for(i=0;i<100;i++){};
+
+    printf("aefsdfs");
+    printf("qweewrtcv");
+
     return 0;
 }
 
